@@ -1,0 +1,10 @@
+0
+ffff
+1
+fff9
+fffc
+ffff
+5
+fffe
+7
+1
